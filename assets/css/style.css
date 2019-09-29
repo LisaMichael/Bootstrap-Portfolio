@@ -71,6 +71,10 @@ body {
     margin-left: 2px;
 } */
 
+#logo {
+    color: #ffffff;
+}
+
 .main_content {
     width: 960px;
     margin-left: 200px;
@@ -89,7 +93,9 @@ body {
     flex: 1 0 auto;
 }
 
-
+.textcolor{
+    color: #4aaaa5;
+}
 #profilepic {
     display: float;
     float: left;
@@ -129,22 +135,20 @@ ul{
     padding-bottom: 20px;
 } 
 
-li{ 
+/* li{  */
     /* display: inline-block; */
     /* width: 250px; */
     /* height: 250px; */
     /* size: 100%; */
-}
+/* } */
 
-/* form {
-    padding: 10px;
-} */
 
 #name { 
     margin-top: 5px;
     width: 90%;
     margin-bottom: 5px;
 }
+
 
  #email {
     margin-top: 5px;
